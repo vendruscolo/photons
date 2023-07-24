@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "lifx-photons-core"
-dynamic = ["version"]
+version = 0.42.8
 description = "The core modules of the photons framework"
 readme = "README.rst"
 license = "MIT"
